@@ -1,1 +1,1 @@
-# Midlands - Event-Driven Programming Homeworks
+# Event-Driven Programming Homeworks

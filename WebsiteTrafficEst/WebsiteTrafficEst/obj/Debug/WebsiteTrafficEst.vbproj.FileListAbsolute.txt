@@ -1,0 +1,11 @@
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\bin\Debug\WebsiteTrafficEst.exe.config
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\bin\Debug\WebsiteTrafficEst.exe
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\bin\Debug\WebsiteTrafficEst.pdb
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\bin\Debug\WebsiteTrafficEst.xml
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\obj\Debug\WebsiteTrafficEst.FrmMetrics.resources
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\obj\Debug\WebsiteTrafficEst.Resources.resources
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\obj\Debug\WebsiteTrafficEst.vbproj.GenerateResource.Cache
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\obj\Debug\WebsiteTrafficEst.exe
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\obj\Debug\WebsiteTrafficEst.xml
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\obj\Debug\WebsiteTrafficEst.pdb
+c:\users\monette sox\Desktop\WebsiteTrafficEst\WebsiteTrafficEst\obj\Debug\WebsiteTrafficEst.vbprojResolveAssemblyReference.cache

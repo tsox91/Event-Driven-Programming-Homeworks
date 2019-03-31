@@ -1,0 +1,11 @@
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\bin\Debug\ComputerSalaries.exe.config
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\obj\Debug\ComputerSalaries.vbprojResolveAssemblyReference.cache
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\obj\Debug\ComputerSalaries.frmSalaries.resources
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\obj\Debug\ComputerSalaries.Resources.resources
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\obj\Debug\ComputerSalaries.vbproj.GenerateResource.Cache
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\obj\Debug\ComputerSalaries.xml
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\bin\Debug\ComputerSalaries.exe
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\bin\Debug\ComputerSalaries.pdb
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\bin\Debug\ComputerSalaries.xml
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\obj\Debug\ComputerSalaries.exe
+c:\users\monette sox\Desktop\ComputerSalaries\ComputerSalaries\obj\Debug\ComputerSalaries.pdb
